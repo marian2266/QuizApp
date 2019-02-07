@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="intro">Welcome to Aviation Quiz App! Answer all the questions and see how much do you know about Aviation! Enjoy!</string>
+    <string name="Q1">1.What are the four forces of flight?</string>
+    <string name="Q2">2.Altitude in aviation is measured in?</string>
+    <string name="hint">hint: Meters, Feet or Kilometers</string>
+    <string name="Q3">3.Following the Airbus A380, the next largest commercial aircraft is....</string>
+    <string name="Q4">4.When this Boeing aircraft was originally launched, it wasn"'"t widely used and wasn"'"t a success at first. However, it is now one of the most used Boeing aircraft around today. What aircraft is it?</string>
+    <string name="Q5">5.True or false: A stall is when the aircraft has lost too much airspeed and can no longer climb. Instead, it falls.</string>
+    <string name="Q6">6.During the event of a stall, what should the pilot do to safely recover the aircraft?</string>
+    <string name="Q7">7.Air Florida flight 90 crashed shortly after takeoff in a strong blizzard because....(Check all answers that are true)</string>
+    <string name="Q8">8.The "Crash of the Century" which involved two Boeing 747"'"s was caused by....(Check all answers that are true)</string>
+    <string name="Q9">9.True or false: A pilot of a Boeing 747–400 can see none of its engines from the cockpit.</string>
+    <string name="Q10">10.Hydraulics of an aircraft are used to....</string>
+
+    <string name="q1_a1">A.	Crew, aircraft, luggage, passengers</string>
+    <string name="q1_a2">B.	Lift, thrust, drag, weight</string>
+
+    <string name="q3_a1">A.	The Boeing 747–400</string>
+    <string name="q3_a2">B.	The Boeing 777–300</string>
+
+    <string name="q4_a1">A.	Boeing 737</string>
+    <string name="q4_a2">B.	Boeing 747</string>
+
+    <string name="q5_a1">A.	True</string>
+    <string name="q5_a2">B.	False</string>
+
+    <string name="q6_a1">A.	Immediately put the aircraft in a climb to gain altitude</string>
+    <string name="q6_a2">B.	Increase thrust to full and put the aircraft in a dive to gain speed. The pilot may also use light flaps to gain lift.</string>
+
+    <string name="q7_a1">A.	The pilots failed to put on the Anti-Ice switch. This caused vital parts of the aircraft to stop working correctly</string>
+    <string name="q7_a2">B.	The Air Traffic Controller gave them wrong directions, ending up in a collision</string>
+    <string name="q7_a3">C.	Both of the planes engines failed</string>
+    <string name="q7_a4">D.	There was ice on the wings of the aircraft, this disrupted lift causing the plane to stall.</string>
+
+    <string name="q8_a1">A.	The pilot of one of the 747 is taking off without permission</string>
+    <string name="q8_a2">B.	The pilot of one of the 747 is not taxing off of the runway at the correct time </string>
+    <string name="q8_a3">C.	Heavy fog</string>
+    <string name="q8_a4">D.	The Air Traffic Controller gave one of the 747 permission to takeoff with the other 747 still on the runway</string>
+
+    <string name="q9_a1">A.	True</string>
+    <string name="q9_a2">B.	False</string>
+
+    <string name="q10_a1">A. Power all important flight indicators such as airspeed, altitude, etc.</string>
+    <string name="q10_a2">B. Move vital controls of the aircraft, such as rudder, elevator, etc.</string>
+
+    <string name="submit">Find out your score!</string>
+</resources>
